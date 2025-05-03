@@ -1,0 +1,20 @@
+{
+    "id": 0,
+    "name": "A",
+    "author": "A",
+    "creators": ["a", "a", "a"],
+    "verifier": "A",
+    "verification": "AA",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "rate": "Extreme Demon, Rated",
+    "records": [
+        {
+            "user": "A",
+            "link": "A",
+            "percent": 100,
+            "time": "0:0:0.000",
+            "hz": 240
+        }
+    ]
+}
