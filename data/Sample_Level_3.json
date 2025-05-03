@@ -6,12 +6,14 @@
     "verifier": "Solo_Creator",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
     "percentToQualify": "100",
-    "password": "46290",
+    "password": "Free copy",
+    "rated": "Extreme Demon, Featured",
     "records": [
         {
             "user": "Sample_Victor_1",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
+            "time": "0:52:52.34",
             "hz": 360
         },
         {
