@@ -9,6 +9,12 @@
     "password": "Free copy",
     "rate": "Extreme Demon, Featured",
     "records": [
-        
+        {
+            "user": "TurboFlash",
+            "link": "https://youtu.be/YQ4ec6DjIsQ",
+            "percent": 100,
+            "time": "0:11:32.695",
+            "hz": "60"
+        }
     ]
 }
