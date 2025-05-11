@@ -9,6 +9,12 @@
     "password": "Free copy",
     "rate": "Extreme Demon, Rated",
     "records": [
-        
+        {
+            "user": "finn",
+            "link": "https://www.youtube.com/watch?v=xu5Vidv6Sd4&t=143s",
+            "percent": 100,
+            "time": "1:07:36.983",
+            "hz": "144"
+        }
     ]
 }
