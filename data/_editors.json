@@ -5,6 +5,11 @@
         "link": ""
     },
     {
+        "role": "judge",
+        "name": "spnv",
+        "link": ""
+    },
+    {
         "role": "helper",
         "name": "TURBOflash",
         "link": ""
