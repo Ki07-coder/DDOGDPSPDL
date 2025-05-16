@@ -1,0 +1,27 @@
+[
+    {
+        "role": "owner",
+        "name": "a",
+        "link": ""
+    },
+    {
+        "role": "admin",
+        "name": "a",
+        "link": ""
+    },
+    {
+        "role": "helper",
+        "name": "a",
+        "link": ""
+    },
+    {
+        "role": "trial",
+        "name": "a",
+        "link": ""
+    },
+    {
+        "role": "dev",
+        "name": "a",
+        "link": ""
+    }
+]
