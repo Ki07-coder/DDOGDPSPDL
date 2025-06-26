@@ -9,6 +9,12 @@
     "password": "Free Copy",
     "rate": "Extreme Demon, Rated",
     "records": [
-        
+        {
+            "user": "jrpresley08",
+            "link": "https://www.youtube.com/watch?v=TbChGESbs9o",
+            "percent": 100,
+            "time": "0:4:52.408",
+            "hz": "240"
+        }
     ]
 }
