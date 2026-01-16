@@ -5,6 +5,7 @@
     "creators": ["a", "a", "a"],
     "verifier": "A",
     "verification": "AA",
+    "verifyTime": "unknown",
     "percentToQualify": 100,
     "password": "Free Copy",
     "rate": "Extreme Demon, Rated",
