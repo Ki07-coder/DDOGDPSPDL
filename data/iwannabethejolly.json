@@ -11,6 +11,13 @@
     "rate": "Extreme Demon, Rated",
     "records": [
         {
+            "user": "Gold",
+            "link": "https://www.youtube.com/watch?v=zCv7U_Q3N1U",
+            "percent": 100,
+            "time": "0:0:49.945",
+            "hz": "240"
+        },
+        {
             "user": "rakeds",
             "link": "https://www.youtube.com/watch?v=zCv7U_Q3N1U",
             "percent": 100,
