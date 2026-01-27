@@ -204,6 +204,23 @@ input[type="number"],
     margin-top: -0.2083333333em;
     display: table;
 }
+.type-label-lg3 {
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 17.1428571429px;
+    line-height: 20px;
+    font-weight: 700;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+.type-label-lg3::before {
+    content: "";
+    margin-bottom: -0.2583333333em;
+    display: table;
+}
+.type-label-lg3::after {
+    content: "";
+    margin-top: -0.2083333333em;
+    display: table;
+}
 
 .type-label-md {
     font-family: "Lexend Deca", sans-serif;
