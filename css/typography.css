@@ -157,7 +157,7 @@ input[type="number"],
     font-family: "Lexend Deca", sans-serif;
     font-size: 17.1428571429px;
     line-height: 20px;
-    font-weight: 500;
+    font-weight: 600;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 .type-label-lg::before {
@@ -166,6 +166,40 @@ input[type="number"],
     display: table;
 }
 .type-label-lg::after {
+    content: "";
+    margin-top: -0.2083333333em;
+    display: table;
+}
+.type-label-lg1 {
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 17.1428571429px;
+    line-height: 20px;
+    font-weight: 500;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+.type-label-lg1::before {
+    content: "";
+    margin-bottom: -0.2583333333em;
+    display: table;
+}
+.type-label-lg1::after {
+    content: "";
+    margin-top: -0.2083333333em;
+    display: table;
+}
+.type-label-lg2 {
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 17.1428571429px;
+    line-height: 20px;
+    font-weight: 400;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+.type-label-lg2::before {
+    content: "";
+    margin-bottom: -0.2583333333em;
+    display: table;
+}
+.type-label-lg2::after {
     content: "";
     margin-top: -0.2083333333em;
     display: table;
