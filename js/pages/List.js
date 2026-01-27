@@ -31,7 +31,9 @@ export default {
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
                             <button @click="selected = i">
-                                <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
+                                <span v-if="i + 1 <= 75" class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
+                                <span v-else-if="i + 1 <= 150" class="type-label-lg1">{{ level?.name || \`Error (\${err}.json)\` }}</span>
+                                <span v-else class="type-label-lg2">{{ level?.name || \`Error (\${err}.json)\` }}</span>
                             </button>
                         </td>
                     </tr>
@@ -70,7 +72,7 @@ export default {
                                 <p>{{ record.time }}</p>
                             </td>
                             <td class="user">
-                                <a :href="record.link" target="_blank" class="type-label-lg">{{ record.user }}</a>
+                                <a :href="record.link" target="_blank" class="type-label-lg1">{{ record.user }}</a>
                             </td>
                             <td class="mobile">
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
@@ -98,7 +100,7 @@ export default {
                         <ol class="editors">
                             <li v-for="editor in editors">
                                 <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
-                                <a v-if="editor.link" class="type-label-lg link" target="_blank" :href="editor.link">{{ editor.name }}</a>
+                                <a v-if="editor.link" class="type-label-lg1 link" target="_blank" :href="editor.link">{{ editor.name }}</a>
                                 <p v-else>{{ editor.name }}</p>
                             </li>
                         </ol>
