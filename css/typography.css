@@ -157,7 +157,7 @@ input[type="number"],
     font-family: "Lexend Deca", sans-serif;
     font-size: 17.1428571429px;
     line-height: 20px;
-    font-weight: 500;
+    font-weight: 600;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 .type-label-lg::before {
@@ -192,6 +192,7 @@ input[type="number"],
     font-size: 17.1428571429px;
     line-height: 20px;
     font-weight: 400;
+    color: #666666;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 .type-label-lg2::before {
