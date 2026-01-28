@@ -12,23 +12,23 @@
     "records": [
         {
             "user": "Gold",
-            "link": "https://www.youtube.com/watch?v=zCv7U_Q3N1U",
+            "link": "https://youtu.be/JDJOzoc8F74?si=6RpFdTCW8R6XB-Z7",
             "percent": 100,
-            "time": "0:00:49.945",
+            "time": "00:00:49.945",
             "hz": "240"
         },
         {
             "user": "rakeds",
             "link": "https://www.youtube.com/watch?v=zCv7U_Q3N1U",
             "percent": 100,
-            "time": "0:01:35.004",
+            "time": "00:01:35.004",
             "hz": "240"
         },
         {
             "user": "jrpresley08",
             "link": "https://www.youtube.com/watch?v=TbChGESbs9o",
             "percent": 100,
-            "time": "0:04:52.408",
+            "time": "00:04:52.408",
             "hz": "240"
         }
     ]

@@ -5,7 +5,7 @@
     "creators": ["ted"],
     "verifier": "ted",
     "verification": "https://youtu.be/AKa2j9X-ZIQ?si=w_aTon5sdZ_Xnu43",
-    "verifyTime": "unknown",
+    "verifyTime": "00:03:49.441",
     "percentToQualify": "100",
     "password": "Free copy",
     "rate": "Extreme Demon, Featured",
@@ -14,21 +14,21 @@
             "user": "Gold",
             "link": "https://youtu.be/TThOvxQye8g?si=2vLHymGaJK-w2yla",
             "percent": 100,
-            "time": "0:03:56.450",
+            "time": "00:03:56.450",
             "hz": "240"
         },
         {
             "user": "rakeds",
             "link": "https://www.youtube.com/watch?v=oU-jVZT4kIU",
             "percent": 100,
-            "time": "0:06:34.266",
+            "time": "00:06:34.266",
             "hz": "240"
         },
         {
             "user": "TurboFlash",
             "link": "https://youtu.be/tl_J761GkaQ",
             "percent": 100,
-            "time": "0:11:32.695",
+            "time": "00:11:32.695",
             "hz": "60"
         }
     ]
