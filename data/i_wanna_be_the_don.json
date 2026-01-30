@@ -10,6 +10,12 @@
     "password": "Free copy",
     "rate": "Extreme Demon, Featured",
     "records": [
-        
+        {
+            "user": "Gold",
+            "link": "https://youtu.be/cCHP7HNQV18?si=88Hv36UyjGwXcqoL",
+            "percent": 100,
+            "time": "00:20:42.062",
+            "hz": "240"
+        }
     ]
 }

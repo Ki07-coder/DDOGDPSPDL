@@ -124,7 +124,7 @@ export default {
                         Have either source audio or clicks/taps in the video. Edited audio only does not count. The only exception is if you use visual clicks.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. If the level has checkpoints, you must include the full run of each checkpoint in the video and one death plus respawn for each checkpoint unless you completed a checkpoint on first attempt.
+                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. If the level has checkpoints, you must include the full run of each checkpoint in the video and one death plus respawn for each checkpoint unless you completed a checkpoint on first attempt. Using the platformer saves mod for long levels is allowed, however you must still have one full run per checkpoint.
                     </p>
                     <p>
                         The recording must also show the player activate the end trigger and show the endscreen, or the completion will be invalidated.
