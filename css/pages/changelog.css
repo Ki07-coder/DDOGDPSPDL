@@ -1,7 +1,9 @@
 .page-changelog {
     display: block;
     margin: 2rem;
+    padding: 2%;
 }
 .page-changelog .change {
     margin: 1rem;
+    padding: 1%;
 }
