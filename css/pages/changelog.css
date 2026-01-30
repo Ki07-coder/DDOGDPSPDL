@@ -1,13 +1,10 @@
 .page-changelog {
     display: block;
-    margin: 2rem;
-    padding: 2%;
+    margin: 1rem;
 }
 .page-changelog .change {
     margin: 1rem;
-    padding: 1%;
 }
-
-.page-changelog .h2, .page-changelog .p {
+.page-changelog h2, .page-changelog p {
     margin: 1rem;
 }
