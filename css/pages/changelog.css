@@ -5,6 +5,8 @@
 .page-changelog .change {
     margin: 1rem;
 }
-.page-changelog h2, .page-changelog p {
+.page-changelog h2,
+.page-changelog h3,
+.page-changelog p {
     margin: 1rem;
 }
