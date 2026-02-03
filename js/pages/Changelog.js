@@ -4,13 +4,20 @@ export default {
             <Changelog></Changelog>
         </main>
         <div v-else class="page-changelog">
+        <div class="change">
+                <h2>03/02/2026</h2>
+                <p>"5 rooms of" has been placed at #22.</p>
+                <p>"john pork at 3AM" has been placed at #23.</p>
+                <p>"C i r c l e s" has been placed at #24.</p>
+                <p>"HYPER dash" has been placed at #25.</p>
+                <p>"iwannabethesigma" has been placed at #26.</p>
+            </div>
             <div class="change">
                 <h2>31/01/2026</h2>
                 <h3>Major changes</h3>
                 <p>The roulette tab has been temporarily removed, I will try to rework it to work with platformer levels as percentage doesn't quite make sense.</p>
                 <h3>Placements</h3>
-                <p>"The Agony Tower" has been placed at #7, below "Two Steps Ahead".</p>
-                <p>This pushes "7" out of the top 10.</p>
+                <p>"The Agony Tower" has been placed at #7, below "Two Steps Ahead". This pushes "7" out of the top 10.</p>
             </div>
             <div class="change">
                 <h2>30/01/2026</h2>
