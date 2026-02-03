@@ -52,12 +52,11 @@ export default {
             <p class="type-body">
                 <span>{{ author }}</span>
             </p>
-            </div>
             <div class="type-title-sm">Rate</div>
                 <p class="type-body">
                     <span>{{ rate }}</span>
                 </p>
-            </div>
+        </div>
     `,
 
     computed: {
