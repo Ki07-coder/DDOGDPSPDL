@@ -6,27 +6,27 @@ export default {
         <div v-else class="page-changelog">
             <div class="change">
                 <h2>06/02/2026</h2>
-                <p>"ChromaLightJugBacon" has been placed at #26.</p>
-                <p>"Switch" has been placed at #27.</p>
-                <p>"Oxogen" has been placed at #29.</p>
-                <p>"50roomsOfDifficulty" has been placed at #31.</p>
-                <p>"ten plat" has been placed at #32.</p>
-                <p>"MindSet" has been placed at #33.</p>
-                <p>"NEW PLACE" has been placed at #35.</p>
-                <p>"Dark And Light" has been placed at #36.</p>
-                <p>"Mindset II" has been placed at #37.</p>
-                <p>"the shelf" has been placed at #38.</p>
-                <p>"Jam Heights" has been placed at #39.</p>
-                <p>"Thermometer" has been placed at #40.</p>
-                <p>"wait what a plat lvl" has been placed at #41.</p>
-                <p>"MESMERIZER" has been placed at #42.</p>
-                <p>"Atone the HtP" has been placed at #43.</p>
-                <p>"hollow cube" has been placed at #44.</p>
-                <p>"Before New Year" has been placed at #45.</p>
-                <p>"Winter Storm" has been placed at #46.</p>
-                <p>"Thisishowyoueataburger" has been placed at #47.</p>
-                <p>"I Wanna Slope Boost" has been placed at #48.</p>
-                <p>"ultra dash" has been placed at #49.</p>
+                <p>"ChromaLightJugBacon" has been placed at #24.</p>
+                <p>"Switch" has been placed at #25.</p>
+                <p>"Oxogen" has been placed at #27.</p>
+                <p>"50roomsOfDifficulty" has been placed at #29.</p>
+                <p>"ten plat" has been placed at #30.</p>
+                <p>"MindSet" has been placed at #31.</p>
+                <p>"NEW PLACE" has been placed at #33.</p>
+                <p>"Dark And Light" has been placed at #34.</p>
+                <p>"Mindset II" has been placed at #35.</p>
+                <p>"the shelf" has been placed at #36.</p>
+                <p>"Jam Heights" has been placed at #37.</p>
+                <p>"Thermometer" has been placed at #38.</p>
+                <p>"wait what a plat lvl" has been placed at #39.</p>
+                <p>"MESMERIZER" has been placed at #40.</p>
+                <p>"Atone the HtP" has been placed at #41.</p>
+                <p>"hollow cube" has been placed at #42.</p>
+                <p>"Before New Year" has been placed at #43.</p>
+                <p>"Winter Storm" has been placed at #44.</p>
+                <p>"Thisishowyoueataburger" has been placed at #45.</p>
+                <p>"I Wanna Slope Boost" has been placed at #46.</p>
+                <p>"ultra dash" has been placed at #47.</p>
             </div>
             <div class="change">
                 <h2>03/02/2026</h2>
