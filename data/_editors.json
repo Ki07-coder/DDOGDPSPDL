@@ -6,6 +6,11 @@
     },
     {
         "role": "helper",
+        "name": "Gold",
+        "link": ""
+    },
+    {
+        "role": "helper",
         "name": "spnv",
         "link": ""
     },
