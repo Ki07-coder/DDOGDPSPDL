@@ -5,6 +5,18 @@ export default {
         </main>
         <div v-else class="page-changelog">
             <div class="change">
+                <h2>07/02/2026</h2>
+                <p>"a7852b2811c1992" has been placed at #36.</p>
+                <p>"Tough Day" has been placed at #46.</p>
+                <p>"Flash Game" has been placed at #47.</p>
+                <p>"MoPlPl2" has been placed at #48.</p>
+                <p>"Worlds Easiest Game" has been placed at #49.</p>
+                <p>"Spider part" has been placed at #50.</p>
+                <p>"HOW DO I PLATFORMER" has been placed at #52.</p>
+                <p>"A aa aa a a a a a a a a a aa a a aaa" has been placed at #54.</p>
+                <p>"TimeMaze2" has been placed at #55.</p>
+            </div>
+            <div class="change">
                 <h2>06/02/2026</h2>
                 <p>"ChromaLightJugBacon" has been placed at #24.</p>
                 <p>"Switch" has been placed at #25.</p>
@@ -41,7 +53,7 @@ export default {
                 <h3>Major changes</h3>
                 <p>The roulette tab has been temporarily removed, I will try to rework it to work with platformer levels as percentage doesn't quite make sense.</p>
                 <h3>Placements</h3>
-                <p>"The Agony Tower" has been placed at #7, below "Two Steps Ahead". This pushes "7" out of the top 10.</p>
+                <p>"The Agony Tower" has been placed at #7, below "Two Steps Ahead", pushing "7" out of the top 10.</p>
             </div>
             <div class="change">
                 <h2>30/01/2026</h2>
