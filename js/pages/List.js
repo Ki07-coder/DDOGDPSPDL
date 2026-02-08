@@ -82,9 +82,9 @@ export default {
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
                             <td class="hz">
-                                <img v-if="record.coins >= 1" :src="\`/assets/coin\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile" width="20px">
-                                <img v-if="record.coins >= 2" :src="\`/assets/coin\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile" width="20px">
-                                <img v-if="record.coins >= 3" :src="\`/assets/coin\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile" width="20px">
+                                <img v-if="record.coins >= 1" :src="\`/assets/coin\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
+                                <img v-if="record.coins >= 2" :src="\`/assets/coin\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
+                                <img v-if="record.coins >= 3" :src="\`/assets/coin\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
                             <!--<td class="hz">
                                 <p>{{ record.hz }}Hz</p>

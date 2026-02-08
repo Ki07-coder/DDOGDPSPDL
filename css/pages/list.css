@@ -126,3 +126,7 @@
 .page-list .meta .editors li a:hover {
     text-decoration: underline;
 }
+
+.page-list .hz img {
+    height: 20px;
+}
