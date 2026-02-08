@@ -11,6 +11,13 @@
     "password": "Free copy",
     "rate": "Medium Demon, Rated",
     "records": [
-        
+        {
+            "user": "zith",
+            "link": "https://youtu.be/0qJjGCogPqU",
+            "percent": 100,
+            "coins": 0,
+            "time": "00:00:15.366",
+            "hz": "240"
+        }
     ]
 }
