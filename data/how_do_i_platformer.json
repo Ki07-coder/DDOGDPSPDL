@@ -11,6 +11,13 @@
     "password": "Free copy",
     "rate": "Easy Demon, Featured",
     "records": [
-        
+        {
+            "user": "ddodfusi0n",
+            "link": "https://www.youtube.com/watch?v=_Gt0iTTM-eM",
+            "percent": 100,
+            "coins": 3,
+            "time": "00:02:45.883",
+            "hz": "240"
+        }
     ]
 }
