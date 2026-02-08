@@ -44,7 +44,7 @@ export default {
             <div class="level-container">
                 <div class="level" v-if="level">
                     <h1>{{ level.name }}</h1>
-                    <h2 v-if="level.coins == 0">{{ level.coins }} coin</h2>
+                    <h2 v-if="level.coins == 1">{{ level.coins }} coin</h2>
                     <h2 v-else-if="level.coins > 0">{{ level.coins }} coins</h2>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier" :rate="level.rate"></LevelAuthors>
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
