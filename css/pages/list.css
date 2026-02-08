@@ -127,6 +127,10 @@
     text-decoration: underline;
 }
 
+.page-list .hz .td {
+    width: 100px;
+}
+
 .page-list .hz img {
     height: 20px;
 }
