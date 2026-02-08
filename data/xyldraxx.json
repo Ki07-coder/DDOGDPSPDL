@@ -1,6 +1,7 @@
 {
     "id": 8476,
     "name": "Xyldraxx",
+    "coins": 0,
     "author": "finn",
     "creators": ["finn"],
     "verifier": "finn",
@@ -14,6 +15,7 @@
             "user": "Gold",
             "link": "https://youtu.be/beLuEpL_E5k?si=hmBRLdeHeqW_UwrU",
             "percent": 100,
+            "coins": 0,
             "time": "01:00:06.687",
             "hz": "240"
         }

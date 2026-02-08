@@ -1,6 +1,7 @@
 {
     "id": 0,
     "name": "A",
+    "coins": 0,
     "author": "A",
     "creators": ["a", "a", "a"],
     "verifier": "A",
@@ -14,6 +15,7 @@
             "user": "A",
             "link": "A",
             "percent": 100,
+            "coins": 0,
             "time": "0:00:00.000",
             "hz": 240
         }

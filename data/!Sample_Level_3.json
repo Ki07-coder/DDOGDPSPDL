@@ -1,6 +1,7 @@
 {
     "id": 0,
     "name": "Placeholder entry",
+    "coins": 0,
     "author": "Placeholder",
     "creators": ["Placeholder"],
     "verifier": "Placeholder",

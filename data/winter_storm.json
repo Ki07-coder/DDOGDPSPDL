@@ -1,6 +1,7 @@
 {
     "id": 10567,
     "name": "Winter Storm",
+    "coins": 1,
     "author": "space34",
     "creators": ["space34"],
     "verifier": "Gold",

@@ -1,6 +1,7 @@
 {
     "id": 9413,
     "name": "Tough Day",
+    "coins": 3,
     "author": "cControlDev",
     "creators": ["cControlDev"],
     "verifier": "Gold",

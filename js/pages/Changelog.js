@@ -6,6 +6,9 @@ export default {
         <div v-else class="page-changelog">
             <div class="change">
                 <h2>07/02/2026</h2>
+                <h3>Major changes</h3>
+                <p>Added coins displays</p>
+                <h3>Placements</h3>
                 <p>"a7852b2811c1992" has been placed at #36.</p>
                 <p>"Tough Day" has been placed at #46.</p>
                 <p>"Flash Game" has been placed at #47.</p>

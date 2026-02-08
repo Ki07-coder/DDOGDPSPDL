@@ -1,6 +1,7 @@
 {
     "id": 1059,
     "name": "john pork at 3AM",
+    "coins": 0,
     "author": "Axel",
     "creators": ["Axel"],
     "verifier": "Gold",

@@ -1,6 +1,7 @@
 {
     "id": 7397,
     "name": "Thermometer",
+    "coins": 2,
     "author": "zyer",
     "creators": ["zyer"],
     "verifier": "Gold",

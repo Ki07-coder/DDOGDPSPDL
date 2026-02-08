@@ -1,6 +1,7 @@
 {
     "id": 7099,
     "name": "I WANNA BE THE don",
+    "coins": 0,
     "author": "OlhoF",
     "creators": ["OlhoF"],
     "verifier": "mbobaguard",
@@ -14,6 +15,7 @@
             "user": "Gold",
             "link": "https://youtu.be/cCHP7HNQV18?si=88Hv36UyjGwXcqoL",
             "percent": 100,
+            "coins": 0,
             "time": "00:20:42.062",
             "hz": "240"
         }

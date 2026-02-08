@@ -1,6 +1,7 @@
 {
     "id": 6527,
     "name": "Wistfully",
+    "coins": 1,
     "author": "ted",
     "creators": ["ted"],
     "verifier": "ted",
@@ -14,6 +15,7 @@
             "user": "Gold",
             "link": "https://youtu.be/TThOvxQye8g?si=2vLHymGaJK-w2yla",
             "percent": 100,
+            "coins": 1,
             "time": "00:03:56.450",
             "hz": "240"
         },
@@ -21,6 +23,7 @@
             "user": "rakeds",
             "link": "https://www.youtube.com/watch?v=oU-jVZT4kIU",
             "percent": 100,
+            "coins": 1,
             "time": "00:06:34.266",
             "hz": "240"
         },
@@ -28,6 +31,7 @@
             "user": "TurboFlash",
             "link": "https://youtu.be/tl_J761GkaQ",
             "percent": 100,
+            "coins": 1,
             "time": "00:11:32.695",
             "hz": "60"
         }

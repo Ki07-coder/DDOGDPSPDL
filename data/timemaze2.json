@@ -1,6 +1,7 @@
 {
     "id": 12366,
     "name": "TimeMaze2",
+    "coins": 3,
     "author": "MOONdose",
     "creators": ["MOONdose"],
     "verifier": "Gold",

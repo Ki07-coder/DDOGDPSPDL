@@ -1,6 +1,7 @@
 {
     "id": 6635,
     "name": "Spider part",
+    "coins": 2,
     "author": "Ncz",
     "creators": ["Ncz"],
     "verifier": "Gold",

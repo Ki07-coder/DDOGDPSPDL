@@ -1,6 +1,7 @@
 {
     "id": 1146,
     "name": "Slope Tower",
+    "coins": 1,
     "author": "Berry",
     "creators": ["Berry"],
     "verifier": "finn",
@@ -14,6 +15,7 @@
             "user": "Gold",
             "link": "https://youtu.be/RsQdTasFYgI?si=3cqV30SpTASWeCFh",
             "percent": 100,
+            "coins": 1,
             "time": "00:01:47.220",
             "hz": 240
         },
@@ -21,6 +23,7 @@
             "user": "spnv",
             "link": "https://www.youtube.com/watch?v=DmNgNnrd__E",
             "percent": 100,
+            "coins": 1,
             "time": "00:02:20.104",
             "hz": 240
         }

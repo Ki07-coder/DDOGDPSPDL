@@ -1,6 +1,7 @@
 {
     "id": 4761,
     "name": "Doggo420Doggo Kaizo",
+    "coins": 0,
     "author": "doggo420doggo",
     "creators": ["doggo420doggo"],
     "verifier": "paga2000",
@@ -14,6 +15,7 @@
             "user": "rakeds",
             "link": "https://www.youtube.com/watch?v=hEbYcjz1Lxc",
             "percent": 100,
+            "coins": 0,
             "time": "00:00:39.383",
             "hz": 240
         },
@@ -21,6 +23,7 @@
             "user": "Gold",
             "link": "https://youtu.be/64IuEjYIMLU?si=Q69rxgk9K4LjTsxy",
             "percent": 100,
+            "coins": 0,
             "time": "00:00:39.491",
             "hz": 240
         }

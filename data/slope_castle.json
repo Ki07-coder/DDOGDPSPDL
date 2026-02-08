@@ -1,6 +1,7 @@
 {
     "id": 11003,
     "name": "slope castle",
+    "coins": 0,
     "author": "pepe",
     "creators": ["pepe"],
     "verifier": "Gold",

@@ -1,6 +1,7 @@
 {
     "id": 4215,
     "name": "the shelf",
+    "coins": 0,
     "author": "paga2000",
     "creators": ["paga2000"],
     "verifier": "Gold",

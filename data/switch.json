@@ -1,6 +1,7 @@
 {
     "id": 8275,
     "name": "Switch",
+    "coins": 0,
     "author": "Majestyk",
     "creators": ["Majestyk"],
     "verifier": "Gold",
