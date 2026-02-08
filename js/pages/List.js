@@ -44,7 +44,8 @@ export default {
             <div class="level-container">
                 <div class="level" v-if="level">
                     <h1>{{ level.name }}</h1>
-                    <h2 v-if="level.coins > 0">{{ level.coins }} coins</h2>
+                    <h2 v-if="level.coins == 0">{{ level.coins }} coin</h2>
+                    <h2 v-else-if="level.coins > 0">{{ level.coins }} coins</h2>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier" :rate="level.rate"></LevelAuthors>
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
                     <ul class="stats">
@@ -81,9 +82,9 @@ export default {
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
                             <td class="hz">
-                                <img v-if="record.coins >= 1" :src="\`/assets/coin\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
-                                <img v-if="record.coins >= 2" :src="\`/assets/coin\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
-                                <img v-if="record.coins >= 3" :src="\`/assets/coin\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
+                                <img v-if="record.coins >= 1" :src="\`/assets/coin\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile" width="20px">
+                                <img v-if="record.coins >= 2" :src="\`/assets/coin\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile" width="20px">
+                                <img v-if="record.coins >= 3" :src="\`/assets/coin\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile" width="20px">
                             </td>
                             <!--<td class="hz">
                                 <p>{{ record.hz }}Hz</p>
