@@ -123,13 +123,16 @@ export default {
                         To be placed on the list, a level must be rated. Once a level gets unrated again, it will be removed from the list.
                     </p>
                     <p>
-                        Currently minimum accepted difficulty: Easy Demon. (this will change as more platformer demons get rated)
+                        Currently minimum accepted difficulty: Easy Demon. (this will change as more platformer demons get rated).
+                    </p>
+                    <p>
+                        If the level has coins, the verifier must verify ALL coins (this does not necsessarily mean all coins in the same run). For normal completions, you do not need to collect all coins.
                     </p>
                     <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps). Physics bypass above 240Hz is not allowed.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record.
                     </p>
                     <p>
                         Have either source audio or clicks/taps in the video. Edited audio only does not count. The only exception is if you use visual clicks.
@@ -141,10 +144,10 @@ export default {
                         The recording must also show the player activate the end trigger and show the endscreen, or the completion will be invalidated.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Do not use secret routes or bug routes.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Do not use easy modes, only a record of the unmodified level qualifies.
                     </p>
                     <p>
                         You may only have one record per level, if you break your best time you may resubmit your record. Records will be sorted by completion time from fastest to slowest.

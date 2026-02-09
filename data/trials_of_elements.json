@@ -1,0 +1,23 @@
+{
+    "id": 14216,
+    "name": "Trials of elements",
+    "coins": 3,
+    "author": "Ki07Craft",
+    "creators": ["Ki07Craft"],
+    "verifier": "Ki07Craft",
+    "verification": "https://youtu.be/ZIShwgz5jb0",
+    "verifyTime": "13:16:11.858",
+    "percentToQualify": "100",
+    "password": "Free copy",
+    "rate": "Extreme Demon, Featured",
+    "records": [
+        {
+            "user": "Gold",
+            "link": "https://youtu.be/VTEuQiNuDjU?si=j9GNuqoocZq2uxR8",
+            "percent": 100,
+            "coins": 0,
+            "time": "00:31:13.766",
+            "hz": "240"
+        }
+    ]
+}
