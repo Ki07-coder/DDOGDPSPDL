@@ -18,6 +18,14 @@
             "coins": 0,
             "time": "00:31:13.766",
             "hz": "240"
+        },
+        {
+            "user": "TurboFlash",
+            "link": "https://youtu.be/sTgw2DvEKXo",
+            "percent": 100,
+            "coins": 1,
+            "time": "00:41:16.795",
+            "hz": "240"
         }
     ]
 }
