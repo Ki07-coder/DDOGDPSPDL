@@ -4,13 +4,20 @@
     "coins": 0,
     "author": "Stretcho",
     "creators": ["Stretcho"],
-    "verifier": "Gold",
-    "verification": "https://youtu.be/ntKcmLHDgYo?si=WQzDvA1BZSRHgYW8",
-    "verifyTime": "00:04:54.208",
+    "verifier": "Stretcho",
+    "verification": "https://youtu.be/wAIbCtnsWH8",
+    "verifyTime": "00:18:00.462",
     "percentToQualify": "100",
     "password": "Free copy",
     "rate": "Insane Demon, Featured",
     "records": [
-        
+        {
+            "user": "Gold",
+            "link": "https://youtu.be/ntKcmLHDgYo?si=WQzDvA1BZSRHgYW8",
+            "percent": 100,
+            "coins": 0,
+            "time": "00:04:54.208",
+            "hz": "240"
+        }
     ]
 }
