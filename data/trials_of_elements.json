@@ -12,11 +12,11 @@
     "rate": "Extreme Demon, Featured",
     "records": [
         {
-            "user": "Gold",
-            "link": "https://youtu.be/VTEuQiNuDjU?si=j9GNuqoocZq2uxR8",
+            "user": "Stretcho",
+            "link": "https://www.youtube.com/watch?v=TjOOn5BkwxM",
             "percent": 100,
-            "coins": 0,
-            "time": "00:31:13.766",
+            "coins": 2,
+            "time": "00:30:46.752",
             "hz": "240"
         },
         {
@@ -25,6 +25,14 @@
             "percent": 100,
             "coins": 1,
             "time": "00:41:16.795",
+            "hz": "240"
+        },
+        {
+            "user": "Gold",
+            "link": "https://youtu.be/VTEuQiNuDjU?si=j9GNuqoocZq2uxR8",
+            "percent": 100,
+            "coins": 0,
+            "time": "00:31:13.766",
             "hz": "240"
         }
     ]

@@ -11,6 +11,13 @@
     "password": "Free copy",
     "rate": "Insane Demon, Featured",
     "records": [
-        
+        {
+            "user": "Stretcho",
+            "link": "https://www.youtube.com/watch?v=kXu557X-U6U",
+            "percent": 100,
+            "coins": 0,
+            "time": "00:04:49.745",
+            "hz": "240"
+        }
     ]
 }
