@@ -12,12 +12,6 @@ export default {
             </div>
             <div class="change">
                 <h2>27/02/2026</h2>
-                <p>"room level" has been placed at #48.</p>
-                <p>"Xyldraxx" has been moved #6 -> #4.</p>
-                <p>"I wanna be the girl" has been moved #16 -> #12.</p>
-            </div>
-            <div class="change">
-                <h2>27/02/2026</h2>
                 <p>"Trials of Elements" has been moved #4 -> #5.</p>
             </div>
             <div class="change">
