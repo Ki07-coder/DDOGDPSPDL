@@ -4,9 +4,9 @@
     "coins": 1,
     "author": "Berry",
     "creators": ["Berry"],
-    "verifier": "finn",
-    "verification": "https://youtu.be/4_vgI7WUiuA",
-    "verifyTime": "00:10:22.191",
+    "verifier": "spnv",
+    "verification": "https://www.youtube.com/watch?v=DmNgNnrd__E",
+    "verifyTime": "00:02:20.104",
     "percentToQualify": "100",
     "password": "Free copy",
     "rate": "Extreme Demon, Featured",
@@ -20,11 +20,11 @@
             "hz": 240
         },
         {
-            "user": "spnv",
-            "link": "https://www.youtube.com/watch?v=DmNgNnrd__E",
+            "user": "finn",
+            "link": "https://youtu.be/4_vgI7WUiuA",
             "percent": 100,
             "coins": 1,
-            "time": "00:02:20.104",
+            "time": "00:10:22.191",
             "hz": 240
         }
     ]

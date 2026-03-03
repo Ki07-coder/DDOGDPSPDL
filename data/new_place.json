@@ -11,6 +11,13 @@
     "password": "Free copy",
     "rate": "Hard Demon, Rated",
     "records": [
-        
+        {
+            "user": "Stretcho",
+            "link": "https://www.youtube.com/watch?v=tYMR5RCvkuo",
+            "percent": 100,
+            "coins": 1,
+            "time": "00:02:03.229",
+            "hz": "240"
+        }
     ]
 }

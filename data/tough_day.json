@@ -11,6 +11,13 @@
     "password": "Free copy",
     "rate": "Easy Demon, Legendary",
     "records": [
-        
+        {
+            "user": "Stretcho",
+            "link": "https://www.youtube.com/watch?v=gMXl_Qlcx_g",
+            "percent": 100,
+            "coins": 1,
+            "time": "00:03:10.120",
+            "hz": "240"
+        }
     ]
 }

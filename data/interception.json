@@ -11,6 +11,13 @@
     "password": "Free copy",
     "rate": "Medium Demon, Featured",
     "records": [
-        
+        {
+            "user": "Stretcho",
+            "link": "https://www.youtube.com/watch?v=WlSXZ4ObwuM",
+            "percent": 100,
+            "coins": 0,
+            "time": "00:06:15.375",
+            "hz": "240"
+        }
     ]
 }
