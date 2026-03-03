@@ -5,6 +5,12 @@ export default {
         </main>
         <div v-else class="page-changelog">
             <div class="change">
+                <h2>03/03/2026</h2>
+                <p>"room level" has been placed at #48.</p>
+                <p>"Xyldraxx" has been moved #6 -> #4.</p>
+                <p>"I wanna be the girl" has been moved #16 -> #12.</p>
+            </div>
+            <div class="change">
                 <h2>27/02/2026</h2>
                 <p>"room level" has been placed at #48.</p>
                 <p>"Xyldraxx" has been moved #6 -> #4.</p>
