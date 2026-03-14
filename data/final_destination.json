@@ -13,10 +13,18 @@
     "records": [
         {
             "user": "Gold",
-            "link": "https://youtu.be/9FGpQBgsWMQ?si=THp9aTAwz-toX4PS",
+            "link": "https://youtu.be/b3EaTQPkM5w?si=ePFcHbkVudwuLJW7",
             "percent": 100,
             "coins": 0,
-            "time": "00:10:23.016",
+            "time": "00:04:45.504",
+            "hz": "240"
+        },
+        {
+            "user": "Stretcho",
+            "link": "https://www.youtube.com/watch?v=7-yvtUAkN8w",
+            "percent": 100,
+            "coins": 0,
+            "time": "00:40:53.516",
             "hz": "240"
         },
         {

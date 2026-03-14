@@ -18,6 +18,14 @@
             "coins": 1,
             "time": "00:03:18.866",
             "hz": "240"
+        },
+        {
+            "user": "spnv",
+            "link": "https://www.youtube.com/watch?v=a_K7TfsSKL8",
+            "percent": 100,
+            "coins": 1,
+            "time": "00:04:14.666",
+            "hz": "240"
         }
     ]
 }

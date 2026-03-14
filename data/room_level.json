@@ -11,6 +11,13 @@
     "password": "Free Copy",
     "rate": "Hard Demon, Rated",
     "records": [
-        
+        {
+            "user": "Gold",
+            "link": "https://youtu.be/BUFSk3Mk_N0?si=-DJe--nF04VMuTQs",
+            "percent": 100,
+            "coins": 0,
+            "time": "00:03:36.229",
+            "hz": "240"
+        }
     ]
 }
