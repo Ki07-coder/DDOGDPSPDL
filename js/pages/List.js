@@ -126,7 +126,7 @@ export default {
                         Currently minimum accepted difficulty: Easy Demon. (this will change as more platformer demons get rated).
                     </p>
                     <p>
-                        If the level has coins, the verifier must verify ALL coins (this does not necessarily mean all coins in the same run). For normal completions, you do not need to collect all coins.
+                        If the level has coins, the verifier must verify ALL coins (this does not necessarily mean all coins in the same run). For normal completions, you do not need to collect all coins. Coins can only be counted for the list if their respective animation on the level endscreen is shown in the recording.
                     </p>
                     <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps). Physics bypass above 240Hz is not allowed.
