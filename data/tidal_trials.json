@@ -9,7 +9,7 @@
     "verifyTime": "00:01:52.095",
     "percentToQualify": "100",
     "password": "Free copy",
-    "rate": "Hard Demon, Epic",
+    "rate": "Easy Demon, Epic",
     "records": [
         {
             "user": "Stretcho",
@@ -25,6 +25,14 @@
             "percent": 100,
             "coins": 1,
             "time": "00:04:14.666",
+            "hz": "240"
+        },
+        {
+            "user": "Znfl",
+            "link": "https://drive.google.com/file/d/1bmUm8plgCChzZkXitItidQFHkaAVbH4m/view?usp=sharing",
+            "percent": 100,
+            "coins": 0,
+            "time": "00:05:04.920",
             "hz": "240"
         }
     ]
