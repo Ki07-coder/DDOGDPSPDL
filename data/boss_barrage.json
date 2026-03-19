@@ -11,6 +11,13 @@
     "password": "Free copy",
     "rate": "Hard Demon, Featured",
     "records": [
-        
+        {
+            "user": "Znfl",
+            "link": "https://drive.google.com/drive/folders/1XPQHoNRVW9nH7mKcg3_TFRh1uXu33rsu?usp=sharing",
+            "percent": 100,
+            "coins": 0,
+            "time": "00:11:38.054",
+            "hz": "240"
+        }
     ]
 }
