@@ -6,6 +6,9 @@ export default {
         <div v-else class="page-changelog">
             <div class="change">
                 <h2>18/03/2026</h2>
+                <h3>Major changes</h3>
+                <p>Different text styles depending on placement modified a bit, plus now also apply to leaderboard.</p>
+                <h3>Placements</h3>
                 <p>"Boss Barrage" has been placed at #41.</p>
             </div>
             <div class="change">
