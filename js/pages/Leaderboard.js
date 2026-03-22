@@ -28,20 +28,23 @@ export default {
                     <table class="board">
                         <tr v-for="(ientry, i) in leaderboard">
                             <td class="rank">
-                                <p v-if="i + 1 == 1" class="type-label-lg3">#{{ i + 1 }}</p>
+                                <p v-if="i + 1 == 1" class="type-label-lg4">#{{ i + 1 }}</p>
+                                <p v-else-if="i + 1 <= 10" class="type-label-lg3">#{{ i + 1 }}</p>
                                 <p v-else-if="i + 1 <= 75" class="type-label-lg">#{{ i + 1 }}</p>
                                 <p v-else-if="i + 1 <= 150" class="type-label-lg1">#{{ i + 1 }}</p>
                                 <p v-else class="type-label-lg2">#{{ i + 1 }}</p>
                             </td>
                             <td class="total">
-                                <p v-if="i + 1 == 1" class="type-label-lg3">{{ localize(ientry.total) }}</p>
+                                <p v-if="i + 1 == 1" class="type-label-lg4">{{ localize(ientry.total) }}</p>
+                                <p v-else-if="i + 1 <= 10" class="type-label-lg3">{{ localize(ientry.total) }}</p>
                                 <p v-else-if="i + 1 <= 75" class="type-label-lg">{{ localize(ientry.total) }}</p>
                                 <p v-else-if="i + 1 <= 150" class="type-label-lg1">{{ localize(ientry.total) }}</p>
                                 <p v-else class="type-label-lg2">{{ localize(ientry.total) }}</p>
                             </td>
                             <td class="user" :class="{ 'active': selected == i }">
                                 <button @click="selected = i">
-                                    <span v-if="i + 1 == 1" class="type-label-lg3">{{ ientry.user }}</span>
+                                    <span v-if="i + 1 == 1" class="type-label-lg4">{{ ientry.user }}</span>
+                                    <span v-else-if="i + 1 <= 10" class="type-label-lg3">{{ ientry.user }}</span>
                                     <span v-else-if="i + 1 <= 75" class="type-label-lg">{{ ientry.user }}</span>
                                     <span v-else-if="i + 1 <= 150" class="type-label-lg1">{{ ientry.user }}</span>
                                     <span v-else class="type-label-lg2">{{ ientry.user }}</span>
@@ -58,16 +61,25 @@ export default {
                         <table class="table">
                             <tr v-for="score in entry.verified">
                                 <td class="rank">
-                                    <p v-if="i + 1 == 1" class="type-label-lg3">#{{ score.rank }}</p>
-                                    <p v-else-if="i + 1 <= 150" class="type-label-lg">#{{ score.rank }}</p>
-                                    <p v-else-if="i + 1 <= 150" class="type-label-lg1">#{{ score.rank }}</p>
-                                    <p v-else" class="type-label-lg2">Legacy</p>
+                                    <p v-if="score.rank == 1" class="type-label-lg4">{{ ientry.user }}</p>
+                                    <p v-else-if="score.rank <= 10" class="type-label-lg3">{{ ientry.user }}</p>
+                                    <p v-else-if="score.rank <= 75" class="type-label-lg">{{ ientry.user }}</p>
+                                    <p v-else-if="score.rank <= 150" class="type-label-lg1">{{ ientry.user }}</p>
+                                    <p v-else class="type-label-lg2">Legacy</p>
                                 </td>
                                 <td class="level">
-                                    <a class="type-label-lg1" target="_blank" :href="score.link">{{ score.level }}</a>
+                                    <a v-if="score.rank == 1" class="type-label-lg4">{{ score.level }}</a>
+                                    <a v-else-if="score.rank <= 10" class="type-label-lg3">{{ score.level }}</a>
+                                    <a v-else-if="score.rank <= 75" class="type-label-lg">{{ score.level }}</a>
+                                    <a v-else-if="score.rank <= 150" class="type-label-lg1">{{ score.level }}</a>
+                                    <a v-else class="type-label-lg2">{{ score.level }}</a>
                                 </td>
                                 <td class="score">
-                                    <p>+{{ localize(score.score) }}</p>
+                                    <p v-if="score.rank == 1" class="type-label-lg4">+{{ localize(score.score) }}</p>
+                                    <p v-else-if="score.rank <= 10" class="type-label-lg3">+{{ localize(score.score) }}</p>
+                                    <p v-else-if="score.rank <= 75" class="type-label-lg">+{{ localize(score.score) }}</p>
+                                    <p v-else-if="score.rank <= 150" class="type-label-lg1">+{{ localize(score.score) }}</p>
+                                    <p v-else class="type-label-lg2">+{{ localize(score.score) }}</p>
                                 </td>
                             </tr>
                         </table>
@@ -75,16 +87,25 @@ export default {
                         <table class="table">
                             <tr v-for="score in entry.completed">
                                 <td class="rank">
-                                    <p v-if="i + 1 == 1" class="type-label-lg3">#{{ score.rank }}</p>
-                                    <p v-else-if="i + 1 <= 150" class="type-label-lg">#{{ score.rank }}</p>
-                                    <p v-else-if="i + 1 <= 150" class="type-label-lg1">#{{ score.rank }}</p>
-                                    <p v-else" class="type-label-lg2">Legacy</p>
+                                    <p v-if="score.rank == 1" class="type-label-lg4">{{ ientry.user }}</p>
+                                    <p v-else-if="score.rank <= 10" class="type-label-lg3">{{ ientry.user }}</p>
+                                    <p v-else-if="score.rank <= 75" class="type-label-lg">{{ ientry.user }}</p>
+                                    <p v-else-if="score.rank <= 150" class="type-label-lg1">{{ ientry.user }}</p>
+                                    <p v-else class="type-label-lg2">Legacy</p>
                                 </td>
                                 <td class="level">
-                                    <a class="type-label-lg1" target="_blank" :href="score.link">{{ score.level }}</a>
+                                    <a v-if="score.rank == 1" class="type-label-lg4">{{ score.level }}</a>
+                                    <a v-else-if="score.rank <= 10" class="type-label-lg3">{{ score.level }}</a>
+                                    <a v-else-if="score.rank <= 75" class="type-label-lg">{{ score.level }}</a>
+                                    <a v-else-if="score.rank <= 150" class="type-label-lg1">{{ score.level }}</a>
+                                    <a v-else class="type-label-lg2">{{ score.level }}</a>
                                 </td>
                                 <td class="score">
-                                    <p>+{{ localize(score.score) }}</p>
+                                    <p v-if="score.rank == 1" class="type-label-lg4">+{{ localize(score.score) }}</p>
+                                    <p v-else-if="score.rank <= 10" class="type-label-lg3">+{{ localize(score.score) }}</p>
+                                    <p v-else-if="score.rank <= 75" class="type-label-lg">+{{ localize(score.score) }}</p>
+                                    <p v-else-if="score.rank <= 150" class="type-label-lg1">+{{ localize(score.score) }}</p>
+                                    <p v-else class="type-label-lg2">+{{ localize(score.score) }}</p>
                                 </td>
                             </tr>
                         </table>
@@ -92,10 +113,7 @@ export default {
                         <table class="table">
                             <tr v-for="score in entry.progressed">
                                 <td class="rank">
-                                    <p v-if="i + 1 == 1" class="type-label-lg3">#{{ score.rank }}</p>
-                                    <p v-else-if="i + 1 <= 150" class="type-label-lg">#{{ score.rank }}</p>
-                                    <p v-else-if="i + 1 <= 150" class="type-label-lg1">#{{ score.rank }}</p>
-                                    <p v-else" class="type-label-lg2">Legacy</p>
+                                    <p>#{{ score.rank }}</p>
                                 </td>
                                 <td class="level">
                                     <a class="type-label-lg1" target="_blank" :href="score.link">{{ score.percent }}% {{ score.level }}</a>
