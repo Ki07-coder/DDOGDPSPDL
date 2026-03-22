@@ -33,7 +33,7 @@ export default {
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
                             <button @click="selected = i">
-                                <span v-if="i + 1 == 1" class="type-label-lg3">{{ level?.name || \`Error (\${err}.json)\` }}</span>
+                                <span v-if="i + 1 == 1" class="type-label-lg4">{{ level?.name || \`Error (\${err}.json)\` }}</span>
                                 <span v-else-if="i + 1 <= 10" class="type-label-lg3">{{ level?.name || \`Error (\${err}.json)\` }}</span>
                                 <span v-else-if="i + 1 <= 75" class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
                                 <span v-else-if="i + 1 <= 150" class="type-label-lg1">{{ level?.name || \`Error (\${err}.json)\` }}</span>
