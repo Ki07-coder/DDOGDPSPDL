@@ -69,7 +69,7 @@ export default {
                                 </td>
                                 <td class="level">
                                     <a v-if="score.rank == 1" class="type-label-lg4" :href="score.link">{{ score.level }}</a>
-                                    <a v-else-if="score.rank <= 10" class="type-label-lg3 :href="score.link"">{{ score.level }}</a>
+                                    <a v-else-if="score.rank <= 10" class="type-label-lg3" :href="score.link">{{ score.level }}</a>
                                     <a v-else-if="score.rank <= 75" class="type-label-lg" :href="score.link">{{ score.level }}</a>
                                     <a v-else-if="score.rank <= 150" class="type-label-lg1" :href="score.link">{{ score.level }}</a>
                                     <a v-else class="type-label-lg2" :href="score.link">{{ score.level }}</a>
