@@ -68,11 +68,11 @@ export default {
                                     <p v-else class="type-label-lg2">Legacy</p>
                                 </td>
                                 <td class="level">
-                                    <a v-if="score.rank == 1" class="type-label-lg4">{{ score.level }}</a>
-                                    <a v-else-if="score.rank <= 10" class="type-label-lg3">{{ score.level }}</a>
-                                    <a v-else-if="score.rank <= 75" class="type-label-lg">{{ score.level }}</a>
-                                    <a v-else-if="score.rank <= 150" class="type-label-lg1">{{ score.level }}</a>
-                                    <a v-else class="type-label-lg2">{{ score.level }}</a>
+                                    <a v-if="score.rank == 1" class="type-label-lg4" :href="score.link">{{ score.level }}</a>
+                                    <a v-else-if="score.rank <= 10" class="type-label-lg3 :href="score.link"">{{ score.level }}</a>
+                                    <a v-else-if="score.rank <= 75" class="type-label-lg" :href="score.link">{{ score.level }}</a>
+                                    <a v-else-if="score.rank <= 150" class="type-label-lg1" :href="score.link">{{ score.level }}</a>
+                                    <a v-else class="type-label-lg2" :href="score.link">{{ score.level }}</a>
                                 </td>
                                 <td class="score">
                                     <p v-if="score.rank == 1" class="type-label-lg4">+{{ localize(score.score) }}</p>
@@ -94,11 +94,11 @@ export default {
                                     <p v-else class="type-label-lg2">Legacy</p>
                                 </td>
                                 <td class="level">
-                                    <a v-if="score.rank == 1" class="type-label-lg4">{{ score.level }}</a>
-                                    <a v-else-if="score.rank <= 10" class="type-label-lg3">{{ score.level }}</a>
-                                    <a v-else-if="score.rank <= 75" class="type-label-lg">{{ score.level }}</a>
-                                    <a v-else-if="score.rank <= 150" class="type-label-lg1">{{ score.level }}</a>
-                                    <a v-else class="type-label-lg2">{{ score.level }}</a>
+                                    <a v-if="score.rank == 1" class="type-label-lg4" :href="score.link">{{ score.level }}</a>
+                                    <a v-else-if="score.rank <= 10" class="type-label-lg3" :href="score.link">{{ score.level }}</a>
+                                    <a v-else-if="score.rank <= 75" class="type-label-lg" :href="score.link">{{ score.level }}</a>
+                                    <a v-else-if="score.rank <= 150" class="type-label-lg1" :href="score.link">{{ score.level }}</a>
+                                    <a v-else class="type-label-lg2" :href="score.link">{{ score.level }}</a>
                                 </td>
                                 <td class="score">
                                     <p v-if="score.rank == 1" class="type-label-lg4">+{{ localize(score.score) }}</p>
