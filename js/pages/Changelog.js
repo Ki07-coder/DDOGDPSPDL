@@ -5,6 +5,10 @@ export default {
         </main>
         <div v-else class="page-changelog">
             <div class="change">
+                <h2>26/03/2026</h2>
+                <p>"Defeated Swag" has been placed at #27.</p>
+            </div>
+            <div class="change">
                 <h2>24/03/2026</h2>
                 <p>Fixed an issue caused by the previous update which made clicking on a link to see the completion video from a player profile in the leaderboard impossible.</p>
                 <p>Work on roulette system has benn started, it will hopefully be finished soon.</p>
