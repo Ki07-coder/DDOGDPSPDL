@@ -5,6 +5,11 @@ export default {
         </main>
         <div v-else class="page-changelog">
             <div class="change">
+                <h2>27/03/2026</h2>
+                <p>"IWannaDanceDance" has been moved #11 -> #8, pushing "The Agony Tower" out of the top 10.</p>
+                <p>"shock therapy" has been placed at #53.</p>
+            </div>
+            <div class="change">
                 <h2>26/03/2026</h2>
                 <p>"Defeated Swag" has been placed at #27.</p>
             </div>
