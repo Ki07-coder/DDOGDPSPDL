@@ -29,9 +29,12 @@ export function score(rank, percent, minPercent) {
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
     score = Math.max(0, score);*/
-    
+
     // Troll formula
-    let score = Math.random()*200
+    let score = (-24.9975*Math.pow(150-rank, 0.4) + 200) *
+        ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
+
+    score = Math.max(0, score);
 
     if (percent != 100) {
         return round(score - score / 3);
