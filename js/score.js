@@ -30,7 +30,7 @@ export function score(rank, percent, minPercent) {
 
     score = Math.max(0, score);*/
 
-    // Troll formula
+    // TROLL formula
     let score = (-24.9975*Math.pow(rank-1, 0.4) + 201 - rank) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     score = score;
@@ -39,7 +39,8 @@ export function score(rank, percent, minPercent) {
         return round(score - score / 3);
     }
 
-    return Math.max(round(score), 0);
+    //return Math.max(round(score), 0); //normal
+    return round(score) // TROLL
 }
 
 export function round(num) {
