@@ -103,7 +103,7 @@ export default {
     data: () => ({
         loading: false,
         levels: [],
-        progression: [], // list of percentages completed
+        progression: [], // list of times completed
         percentage: undefined,
         givenUp: false,
         showRemaining: false,
@@ -135,14 +135,14 @@ export default {
             return this.levels[this.progression.length];
         },
         currentPercentage() {
-            return 150 - (this.levels.length - 1) || 0;
+            return 150 - (this.progression.length || 0) || 0; //start time 150 min
         },
         placeholder() {
             return `At most ${timeConversion(this.currentPercentage * 60000)} time`;
         },
         hasCompleted() {
             return (
-                this.progression[this.progression.length - 1] >= 100 ||
+                this.progression[this.progression.length - 1] >= 150 ||
                 this.progression.length === this.levels.length
             );
         },
@@ -192,8 +192,8 @@ export default {
                 list.push(...fullListMapped.slice(75, 150));
             }
 
-            // random 100 levels
-            this.levels = shuffle(list).slice(0, 100);
+            // random all levels
+            this.levels = shuffle(list).slice(0, 150);
             this.showRemaining = false;
             this.givenUp = false;
             this.progression = [];
@@ -224,6 +224,7 @@ export default {
             }
 
             this.progression.push(this.percentage);
+            this.progress++;
             this.percentage = undefined;
 
             this.save();
