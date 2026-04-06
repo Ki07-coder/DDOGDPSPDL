@@ -38,11 +38,13 @@ export function shuffle(array) {
 }
 
 export function timeConversion(num) {
-	var time = '';		
-	var number = num.toString().split('').reverse().join('');
-	for (var i = 0; i < number.length; i++) 
-		if (i%2 == 0) time += number.substr(i,2) + ':';
-	var res = time.split('',time.length-1).reverse().join('');
-	if (!/:/.test(res)) {res += ':00';}
-	return res.replace(/^\d{1}:/, '0$&').replace(/:\d{1}$/, '$&0' );
+	var time = num;		
+	const hrs = Math.floor(num/3600000);
+    time = num % 3600000;
+    const mins = Math.floor(time/60000);
+    time = num % 60000;
+    const secs = Math.floor(time/1000);
+    time = num % 1000
+    const mils = time;
+	return `${hrs}:${mins}:${secs}.${mils}`;
 }

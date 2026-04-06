@@ -135,10 +135,10 @@ export default {
             return this.levels[this.progression.length];
         },
         currentPercentage() {
-            return 150 - (this.progression[this.progression.length - 1]) || 0;
+            return 150 - (this.levels.length - 1) || 0;
         },
         placeholder() {
-            return `At most ${timeConversion(this.currentPercentage * 1000)}.000 time`;
+            return `At most ${timeConversion(this.currentPercentage * 60000)} time`;
         },
         hasCompleted() {
             return (
