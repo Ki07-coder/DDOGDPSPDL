@@ -1,5 +1,5 @@
 import { fetchList } from '../content.js';
-import { getThumbnailFromId, getYoutubeIdFromUrl, shuffle } from '../util.js';
+import { getThumbnailFromId, getYoutubeIdFromUrl, shuffle, timeConversion } from '../util.js';
 
 import Spinner from '../components/Spinner.js';
 import Btn from '../components/Btn.js';
@@ -13,7 +13,7 @@ export default {
         <main v-else class="page-roulette">
             <div class="sidebar">
                 <p class="type-label-md" style="color: #aaa">
-                    Shameless copy of the Extreme Demon Roulette by <a href="https://matcool.github.io/extreme-demon-roulette/" target="_blank">matcool</a>.
+                    Shameless copy of the Extreme Demon Roulette by <a href="https://matcool.github.io/extreme-demon-roulette/" target="_blank">matcool</a>, modified to fit for platformers by Ki07Craft.
                 </p>
                 <form class="options">
                     <div class="check">
@@ -134,10 +134,10 @@ export default {
             return this.levels[this.progression.length];
         },
         currentPercentage() {
-            return this.progression[this.progression.length - 1] || 0;
+            return 150 - (this.progression[this.progression.length - 1]) || 0;
         },
         placeholder() {
-            return `At least ${this.currentPercentage + 1}%`;
+            return `At most ${timeConversion(this.currentPercentage)} time`;
         },
         hasCompleted() {
             return (
