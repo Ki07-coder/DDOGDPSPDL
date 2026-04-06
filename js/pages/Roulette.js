@@ -15,6 +15,7 @@ export default {
                 <p class="type-label-md" style="color: #aaa">
                     Shameless copy of the Extreme Demon Roulette by <a href="https://matcool.github.io/extreme-demon-roulette/" target="_blank">matcool</a>, modified to fit for platformers by Ki07Craft.
                 </p>
+                <h1>UNFINISHED, does not yet work properly for platformers!</h1>
                 <form class="options">
                     <div class="check">
                         <input type="checkbox" id="main" value="Main List" v-model="useMainList">
@@ -137,7 +138,7 @@ export default {
             return 150 - (this.progression[this.progression.length - 1]) || 0;
         },
         placeholder() {
-            return `At most ${timeConversion(this.currentPercentage)} time`;
+            return `At most ${timeConversion(this.currentPercentage * 1000)}.000 time`;
         },
         hasCompleted() {
             return (
