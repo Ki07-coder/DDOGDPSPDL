@@ -1,0 +1,23 @@
+{
+    "id": 16130,
+    "name": "Swag Processing",
+    "coins": 0,
+    "author": "Znfl",
+    "creators": ["Znfl"],
+    "verifier": "Znfl",
+    "verification": "https://www.youtube.com/watch?v=p7G6xC2uy4s",
+    "verifyTime": "00:01:13.562",
+    "percentToQualify": "100",
+    "password": "Free copy",
+    "rate": "Hard Demon, Rated",
+    "records": [
+        {
+            "user": "Gold",
+            "link": "https://youtu.be/cUU6aDBUgWQ?si=_45nzHYW6o8WqEhP",
+            "percent": 100,
+            "coins": 0,
+            "time": "00:01:56.979",
+            "hz": "240"
+        }
+    ]
+}
