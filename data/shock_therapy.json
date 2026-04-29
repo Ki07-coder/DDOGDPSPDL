@@ -11,5 +11,13 @@
     "password": "Free copy",
     "rate": "Easy Demon, Featured",
     "records": [
+        {
+            "user": "Beli9002",
+            "link": "https://www.youtube.com/watch?v=B7pMRL1VQAo&t=37s",
+            "percent": 100,
+            "coins": 0,
+            "time": "00:01:00.745",
+            "hz": "240"
+        }
     ]
 }

@@ -18,6 +18,14 @@
             "coins": 1,
             "time": "00:02:03.229",
             "hz": "240"
+        },
+        {
+            "user": "Znfl",
+            "link": "https://youtu.be/3gBm_PFknQI",
+            "percent": 100,
+            "coins": 1,
+            "time": "00:02:55.316",
+            "hz": 240
         }
     ]
 }
