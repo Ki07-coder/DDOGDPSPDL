@@ -4,13 +4,20 @@
     "coins": 0,
     "author": "Rage",
     "creators": ["Rage"],
-    "verifier": "Gold",
-    "verification": "https://youtu.be/kvZvq4yjhHM?si=fk7fKxX567bR_w6C",
-    "verifyTime": "00:43:14.387",
+    "verifier": "Rage",
+    "verification": "https://youtube.com/watch?v=alXzlbVNR0o",
+    "verifyTime": "00:02:06.920",
     "percentToQualify": 100,
     "password": "Free Copy",
     "rate": "Extreme Demon, Rated",
     "records": [
-
+        {
+            "user": "Gold",
+            "link": "https://youtu.be/kvZvq4yjhHM?si=fk7fKxX567bR_w6C",
+            "percent": 100,
+            "coins": 0,
+            "time": "00:01:25.470",
+            "hz": "240"
+        }
     ]
 }
