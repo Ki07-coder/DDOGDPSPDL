@@ -18,6 +18,14 @@
             "coins": 0,
             "time": "00:01:00.745",
             "hz": "240"
+        },
+        {
+            "user": "Stretcho",
+            "link": "https://www.youtube.com/watch?v=gSuSm7uFAys",
+            "percent": 100,
+            "coins": 0,
+            "time": "00:01:01.008",
+            "hz": "240"
         }
     ]
 }

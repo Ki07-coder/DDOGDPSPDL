@@ -5,6 +5,14 @@ export default {
         </main>
         <div v-else class="page-changelog">
             <div class="change">
+                <h2>02/06/2026</h2>
+                <h3>Major changes</h3>
+                <p>Main list is now complete, the list reached 75 levels with new placements (see below)!</p>
+                <h3>Placements</h3>
+                <p>"Space Race" has been placed at #4, pushing "IWannaDanceDance" out of the top 10.</p>
+                <p>"Space Race" has been placed at #10, pushing "IWannaBeOrNotToBe" out of the top 10.</p>
+            </div>
+            <div class="change">
                 <h2>26/05/2026</h2>
                 <p>"VerySwagChip" has been placed at #27.</p>
             </div>
