@@ -5,6 +5,10 @@ export default {
         </main>
         <div v-else class="page-changelog">
             <div class="change">
+                <h2>10/06/2026</h2>
+                <p>"HELIOPOLIS" has been placed at #28, pushing "ultra dash" into the extended list.</p>
+            </div>
+            <div class="change">
                 <h2>02/06/2026</h2>
                 <h3>Major changes</h3>
                 <p>Main list is now complete, the list reached 75 levels with new placements (see below)!</p>
