@@ -5,6 +5,12 @@ export default {
         </main>
         <div v-else class="page-changelog">
             <div class="change">
+                <h2>30/06/2026</h2>
+                <p>"Myrce" has been moved #6 -> #4.</p>
+                <p>"IWannaDanceDance" has been moved #12 -> #10.</p>
+                <p>"Slope Tower" has been moved #23 -> #27.</p>
+            </div>
+            <div class="change">
                 <h2>10/06/2026</h2>
                 <p>"HELIOPOLIS" has been placed at #28, pushing "ultra dash" into the extended list.</p>
             </div>
