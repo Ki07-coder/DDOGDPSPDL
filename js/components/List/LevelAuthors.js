@@ -16,6 +16,10 @@ export default {
             type: String,
             required: true,
         },
+        enjoyment: {
+            type: String,
+            required: false,
+        },
     },
     template: `
         <div class="level-authors">
@@ -53,9 +57,13 @@ export default {
                 <span>{{ author }}</span>
             </p>
             <div class="type-title-sm">Rate</div>
-                <p class="type-body">
-                    <span>{{ rate }}</span>
-                </p>
+            <p class="type-body">
+                <span>{{ rate }}</span>
+            </p>
+            <div class="type-title-sm">Average enjoyment</div>
+            <p class="type-body">
+                <span>{{ enjoyment }}</span>
+            </p>
         </div>
     `,
 
