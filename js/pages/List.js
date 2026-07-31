@@ -60,8 +60,8 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <div class="type-title-sm">Verifier enjoyment</div>
+                            <p>{{ level.v_enjoyment || 'Free to Copy' }}/10</p>
                         </li>
                         <li>
                             <div class="type-title-sm">Verification time</div>
