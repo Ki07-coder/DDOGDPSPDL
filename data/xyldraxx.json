@@ -14,6 +14,15 @@
     "enjoyment": "4/10",
     "records": [
         {
+            "user": "Ragequit",
+            "link": "https://youtu.be/ewy62rK4ZhM?t=504",
+            "percent": 100,
+            "coins": 0,
+            "time": "00:03:26.375",
+            "hz": "240",
+            "enjoyment": "?"
+        },
+        {
             "user": "Gold",
             "link": "https://youtu.be/beLuEpL_E5k?si=hmBRLdeHeqW_UwrU",
             "percent": 100,

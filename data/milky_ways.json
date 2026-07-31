@@ -13,6 +13,14 @@
     "v_enjoyment": 9,
     "enjoyment": "9/10",
     "records": [
-        
+        {
+            "user": "Ragequit",
+            "link": "https://youtu.be/ewy62rK4ZhM?t=315",
+            "percent": 100,
+            "coins": 0,
+            "time": "00:22:56.050",
+            "hz": "240",
+            "enjoyment": "?"
+        }
     ]
 }

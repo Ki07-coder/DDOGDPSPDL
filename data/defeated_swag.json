@@ -11,7 +11,7 @@
     "password": "Free copy",
     "rate": "Insane Demon, Rated",
     "v_enjoyment": 7,
-    "enjoyment": "5.5/10",
+    "enjoyment": "7/10",
     "records": [
         {
             "user": "kdawg",
@@ -21,6 +21,15 @@
             "time": "00:01:14.745",
             "hz": 240,
             "enjoyment": "?"
+        },
+        {
+            "user": "Beli9002",
+            "link": "https://www.youtube.com/watch?v=hKmO47UkKic&t=266s",
+            "percent": 100,
+            "coins": 0,
+            "time": "00:01:40.874",
+            "hz": "240",
+            "enjoyment": 10
         },
         {
             "user": "Gold",

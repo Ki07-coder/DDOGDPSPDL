@@ -13,6 +13,14 @@
     "v_enjoyment": 2,
     "enjoyment": "2/10",
     "records": [
-        
+        {
+            "user": "Beli9002",
+            "link": "https://www.youtube.com/watch?v=hKmO47UkKic&t=123s",
+            "percent": 100,
+            "coins": 0,
+            "time": "00:00:45.587",
+            "hz": "240",
+            "enjoyment": 2
+        }
     ]
 }
