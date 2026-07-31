@@ -10,6 +10,8 @@
     "percentToQualify": "100",
     "password": "Free copy",
     "rate": "Extreme Demon, Rated",
+    "v_enjoyment": 2,
+    "enjoyment": "2/10",
     "records": [
         {
             "user": "Stretcho",
@@ -17,7 +19,8 @@
             "percent": 100,
             "coins": 0,
             "time": "00:14:00.770",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": "?"
         }
     ]
 }

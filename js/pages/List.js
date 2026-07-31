@@ -61,7 +61,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">Verifier enjoyment</div>
-                            <p>{{ level.v_enjoyment || 'Free to Copy' }}/10</p>
+                            <p>{{ level.v_enjoyment }}/10</p>
                         </li>
                         <li>
                             <div class="type-title-sm">Verification time</div>

@@ -10,6 +10,8 @@
     "percentToQualify": "100",
     "password": "Free copy",
     "rate": "Hard Demon, Rated",
+    "v_enjoyment": 7,
+    "enjoyment": "5.25/10",
     "records": [
         {
             "user": "Gold",
@@ -17,7 +19,8 @@
             "percent": 100,
             "coins": 0,
             "time": "00:00:41.425",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": 3
         },
         {
             "user": "Beli9002",
@@ -25,7 +28,8 @@
             "percent": 100,
             "coins": 0,
             "time": "00:00:52.129",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": 6
         },
         {
             "user": "Znfl",
@@ -33,7 +37,8 @@
             "percent": 100,
             "coins": 0,
             "time": "00:03:24.562",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": 5
         }
     ]
 }

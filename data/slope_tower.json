@@ -10,6 +10,8 @@
     "percentToQualify": "100",
     "password": "Free copy",
     "rate": "Extreme Demon, Featured",
+    "v_enjoyment": 8,
+    "enjoyment": "7/10",
     "records": [
         {
             "user": "Gold",
@@ -17,7 +19,8 @@
             "percent": 100,
             "coins": 1,
             "time": "00:01:47.220",
-            "hz": 240
+            "hz": 240,
+            "enjoyment": 6
         },
         {
             "user": "finn",
@@ -25,7 +28,8 @@
             "percent": 100,
             "coins": 1,
             "time": "00:10:22.191",
-            "hz": 240
+            "hz": 240,
+            "enjoyment": "?"
         }
     ]
 }

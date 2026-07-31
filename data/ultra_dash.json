@@ -10,6 +10,8 @@
     "percentToQualify": "100",
     "password": "Free copy",
     "rate": "Medium Demon, Rated",
+    "v_enjoyment": 4,
+    "enjoyment": "5.5/10",
     "records": [
         {
             "user": "Beli9002",
@@ -17,7 +19,8 @@
             "percent": 100,
             "coins": 0,
             "time": "00:00:14.270",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": 7
         },
         {
             "user": "ddodfusi0n",
@@ -25,7 +28,8 @@
             "percent": 100,
             "coins": 0,
             "time": "00:00:15.120",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": "?"
         },
         {
             "user": "zith",
@@ -33,7 +37,8 @@
             "percent": 100,
             "coins": 0,
             "time": "00:00:15.366",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": "?"
         }
     ]
 }

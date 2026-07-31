@@ -5,6 +5,11 @@ export default {
         </main>
         <div v-else class="page-changelog">
             <div class="change">
+                <h2>31/07/2026</h2>
+                <h3>v1.3</h3>
+                <p>Added enjoyment ratings to levels! Please check your past records, if one is missing a rating and you would like to add it, DM "ki07crafT" on Discord.</p>
+            </div>
+            <div class="change">
                 <h2>17/07/2026</h2>
                 <p>"Spamish" has been placed at #19, pushing "TimeMaze2" into the extended list.</p>
             </div>
@@ -20,7 +25,7 @@ export default {
             </div>
             <div class="change">
                 <h2>02/06/2026</h2>
-                <h3>Major changes</h3>
+                <h3>v1.2.4</h3>
                 <p>Main list is now complete, the list reached 75 levels with new placements (see below)!</p>
                 <h3>Placements</h3>
                 <p>"Space Race" has been placed at #4, pushing "IWannaDanceDance" out of the top 10.</p>
@@ -63,7 +68,7 @@ export default {
             </div>
             <div class="change">
                 <h2>23/03/2026</h2>
-                <h3>Major changes</h3>
+                <h3>v1.2.3</h3>
                 <p>Different text styles depending on placement modified a bit, plus now also apply to leaderboard.</p>
                 <h3>Placements</h3>
                 <p>"Swag" has been placed at #32.</p>
@@ -101,7 +106,7 @@ export default {
             </div>
             <div class="change">
                 <h2>07/02/2026</h2>
-                <h3>Major changes</h3>
+                <h3v1.2.2</h3>
                 <p>Added coins displays</p>
                 <h3>Placements</h3>
                 <p>"a7852b2811c1992" has been placed at #36.</p>
@@ -148,7 +153,7 @@ export default {
             </div>
             <div class="change">
                 <h2>31/01/2026</h2>
-                <h3>Major changes</h3>
+                <h3>v1.2.1</h3>
                 <p>The roulette tab has been temporarily removed, I will try to rework it to work with platformer levels as percentage doesn't quite make sense.</p>
                 <h3>Placements</h3>
                 <p>"The Agony Tower" has been placed at #7, below "Two Steps Ahead", pushing "7" out of the top 10.</p>

@@ -10,6 +10,8 @@
     "percentToQualify": "100",
     "password": "Free copy",
     "rate": "Easy Demon, Rated",
+    "v_enjoyment": 6,
+    "enjoyment": "4.5/10",
     "records": [
         {
             "user": "Beli9002",
@@ -17,7 +19,8 @@
             "percent": 100,
             "coins": 2,
             "time": "00:17:15.620",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": 3
         }
     ]
 }

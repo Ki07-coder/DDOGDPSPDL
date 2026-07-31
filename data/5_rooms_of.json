@@ -10,6 +10,8 @@
     "percentToQualify": "100",
     "password": "Free copy",
     "rate": "Insane Demon, Featured",
+    "v_enjoyment": "?",
+    "enjoyment": "4.5/10",
     "records": [
         {
             "user": "Gold",
@@ -17,7 +19,8 @@
             "percent": 100,
             "coins": 0,
             "time": "00:04:54.208",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": 3
         },
         {
             "user": "Beli9002",
@@ -25,7 +28,8 @@
             "percent": 100,
             "coins": 0,
             "time": "00:10:29.291",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": 6
         }
     ]
 }

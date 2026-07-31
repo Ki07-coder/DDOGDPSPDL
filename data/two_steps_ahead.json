@@ -10,6 +10,8 @@
     "percentToQualify": "100",
     "password": "Free copy",
     "rate": "Extreme Demon, Featured",
+    "v_enjoyment": "?",
+    "enjoyment": "4.5/10",
     "records": [
         {
             "user": "Gold",
@@ -17,7 +19,8 @@
             "percent": 100,
             "coins": 0,
             "time": "00:15:53.879",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": 3
         },
         {
             "user": "TurboFlash",
@@ -25,7 +28,8 @@
             "percent": 100,
             "coins": 0,
             "time": "00:17:22.429",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": 6
         }
     ]
 }

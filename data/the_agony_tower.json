@@ -10,6 +10,8 @@
     "percentToQualify": "100",
     "password": "Free copy",
     "rate": "Extreme Demon, Rated",
+    "v_enjoyment": 5,
+    "enjoyment": "6/10",
     "records": [
         {
             "user": "kdawg",
@@ -17,7 +19,8 @@
             "percent": 100,
             "coins": 0,
             "time": "00:28:56.201",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": "?"
         },
         {
             "user": "spnv",
@@ -25,7 +28,8 @@
             "percent": 100,
             "coins": 0,
             "time": "00:56:14.733",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": 7
         }
     ]
 }

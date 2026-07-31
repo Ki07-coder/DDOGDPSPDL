@@ -10,6 +10,8 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "rate": "Extreme Demon, Rated",
+    "v_enjoyment": "?",
+    "enjoyment": "5/10",
     "records": [
         {
             "user": "Gold",
@@ -17,7 +19,8 @@
             "percent": 100,
             "coins": 0,
             "time": "00:00:49.945",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": 5
         },
         {
             "user": "Stretcho",
@@ -25,7 +28,8 @@
             "percent": 100,
             "coins": 1,
             "time": "00:01:32.450",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": "?"
         },
         {
             "user": "rakeds",
@@ -33,7 +37,8 @@
             "percent": 100,
             "coins": 0,
             "time": "00:01:35.004",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": "?"
         },
         {
             "user": "jrpresley08",
@@ -41,7 +46,8 @@
             "percent": 100,
             "coins": 0,
             "time": "00:04:52.408",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": "?"
         }
     ]
 }

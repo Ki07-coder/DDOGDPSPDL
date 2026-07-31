@@ -10,6 +10,8 @@
     "percentToQualify": "100",
     "password": "Free copy",
     "rate": "Hard Demon, Rated",
+    "v_enjoyment": 4,
+    "enjoyment": "4.5/10",
     "records": [
         {
             "user": "rakeds",
@@ -17,7 +19,8 @@
             "percent": 100,
             "coins": 0,
             "time": "00:02:29.104",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": "?"
         },
         {
             "user": "Stretcho",
@@ -25,7 +28,8 @@
             "percent": 100,
             "coins": 0,
             "time": "00:04:55.737",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": "?"
         },
         {
             "user": "Beli9002",
@@ -33,7 +37,8 @@
             "percent": 100,
             "coins": 0,
             "time": "00:07:08.129",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": 5
         },
         {
             "user": "ddodfusi0n",
@@ -41,7 +46,8 @@
             "percent": 100,
             "coins": 0,
             "time": "00:16:01.000",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": "?"
         }
     ]
 }
