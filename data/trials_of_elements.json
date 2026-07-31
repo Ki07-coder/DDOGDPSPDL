@@ -10,6 +10,8 @@
     "percentToQualify": "100",
     "password": "Free copy",
     "rate": "Extreme Demon, Featured",
+    "v_enjoyment": 10,
+    "enjoyment": "8.8/10",
     "records": [
         {
             "user": "Gold",
@@ -17,7 +19,8 @@
             "percent": 100,
             "coins": 3,
             "time": "00:07:33.158",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": 9
         },
         {
             "user": "spnv",
@@ -25,7 +28,8 @@
             "percent": 100,
             "coins": 3,
             "time": "00:47:30.191",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": 8
         },
         {
             "user": "Beli9002",
@@ -33,7 +37,8 @@
             "percent": 100,
             "coins": 3,
             "time": "01:11:26.708",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": 10
         },
         {
             "user": "Stretcho",
@@ -41,7 +46,8 @@
             "percent": 100,
             "coins": 2,
             "time": "00:30:46.752",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": "unknown"
         },
         {
             "user": "TurboFlash",
@@ -49,7 +55,8 @@
             "percent": 100,
             "coins": 1,
             "time": "00:41:16.795",
-            "hz": "240"
+            "hz": "240",
+            "enjoyment": 7
         }
     ]
 }

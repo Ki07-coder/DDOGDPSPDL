@@ -81,6 +81,9 @@ export default {
                                 <a :href="record.link" target="_blank" class="type-label-lg1">{{ record.user }}</a>
                             </td>
                             <td class="mobile">
+                                <p class="type-label-lg1">{{ record.enjoyment }}/10</p>
+                            </td>
+                            <td class="mobile">
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
                             <td class="hz">
