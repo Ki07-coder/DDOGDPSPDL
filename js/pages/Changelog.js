@@ -5,6 +5,11 @@ export default {
         </main>
         <div v-else class="page-changelog">
             <div class="change">
+                <h2>11/08/2026</h2>
+                <p>"Take Pride" has been placed at #6, pushing "IWannaDanceDance" out of the top 10 and "A aa aa a a a a a a a a a aa a a aaa" into the extended list.</p>
+                <p>"You Cant Stop" has been placed at #43, pushing "I Wanna Slope Boost" into the extended list.</p>
+            </div>
+            <div class="change">
                 <h2>31/07/2026</h2>
                 <h3>v1.3</h3>
                 <p>Added enjoyment ratings to levels! Please check your past records, if one is missing a rating and you would like to add it, DM "ki07crafT" on Discord.</p>
