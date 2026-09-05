@@ -8,8 +8,8 @@ export default {
                 <h2>05/09/2026</h2>
                 <p>"2 rooms lvl" has been placed at #24, pushing "HOW DO I PLATFORMER" into the extended list.</p>
                 <p>"2 rooms lvl" has been placed at #31, pushing "Thisishowyoueataburger" into the extended list.</p>
-                <p>"Fifty" has been placed at #34, pushing "Spider part" into the extended list.</p>
-                <p>"Robot and Ball Level I Guess" has been placed at #39, pushing "Worlds Easiest Game" into the extended list.</p>
+                <p>"Fifty" has been placed at #35, pushing "Spider part" into the extended list.</p>
+                <p>"Robot and Ball Level I Guess" has been placed at #40, pushing "Worlds Easiest Game" into the extended list.</p>
             </div>
             <div class="change">
                 <h2>11/08/2026</h2>
