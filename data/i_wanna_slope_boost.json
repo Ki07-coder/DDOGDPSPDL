@@ -11,8 +11,16 @@
     "password": "Free copy",
     "rate": "Hard Demon, Featured",
     "v_enjoyment": 5,
-    "enjoyment": "5/10",
+    "enjoyment": "3/10",
     "records": [
-        
+        {
+            "user": "Stretcho",
+            "link": "https://www.youtube.com/watch?v=fPqnQers_K8",
+            "percent": 100,
+            "coins": 0,
+            "time": "00:09:34.666",
+            "hz": "240",
+            "enjoyment": 1
+        }
     ]
 }

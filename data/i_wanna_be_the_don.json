@@ -11,7 +11,7 @@
     "password": "Free copy",
     "rate": "Extreme Demon, Featured",
     "v_enjoyment": "?",
-    "enjoyment": "5/10",
+    "enjoyment": "3/10",
     "records": [
         {
             "user": "Ragequit",
@@ -30,6 +30,15 @@
             "time": "00:20:42.062",
             "hz": "240",
             "enjoyment": 5
+        },
+        {
+            "user": "Stretcho",
+            "link": "https://www.youtube.com/watch?v=B1_MSXtWwB8",
+            "percent": 100,
+            "coins": 0,
+            "time": "00:59:20.729",
+            "hz": "240",
+            "enjoyment": 1
         }
     ]
 }

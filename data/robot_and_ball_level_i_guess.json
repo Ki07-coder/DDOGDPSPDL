@@ -11,8 +11,16 @@
     "password": "Free copy",
     "rate": "Hard Demon, Featured",
     "v_enjoyment": 9,
-    "enjoyment": "9/10",
+    "enjoyment": "7/10",
     "records": [
-        
+        {
+            "user": "Gold",
+            "link": "https://youtu.be/xi_35ey8deQ?si=CDvR5rM7sfwIaT2p",
+            "percent": 100,
+            "coins": 0,
+            "time": "00:04:17.350",
+            "hz": "240",
+            "enjoyment": 5
+        }
     ]
 }
