@@ -11,7 +11,7 @@
     "password": "Free copy",
     "rate": "Medium Demon, Rated",
     "v_enjoyment": 6,
-    "enjoyment": "4.67/10",
+    "enjoyment": "5/10",
     "records": [
         {
             "user": "Gold",
@@ -19,15 +19,6 @@
             "percent": 100,
             "coins": 3,
             "time": "00:14:16.137",
-            "hz": "240",
-            "enjoyment": 4
-        },
-        {
-            "user": "Stretcho",
-            "link": "https://www.youtube.com/watch?v=x1HkPvK35Y8",
-            "percent": 100,
-            "coins": 3,
-            "time": "00:39:43.625",
             "hz": "240",
             "enjoyment": 4
         }
