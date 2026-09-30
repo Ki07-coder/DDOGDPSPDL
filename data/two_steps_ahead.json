@@ -4,24 +4,15 @@
     "coins": 0,
     "author": "LightingFlash",
     "creators": ["LightingFlash"],
-    "verifier": "finn",
-    "verification": "https://youtu.be/av0q78ZDV8k",
-    "verifyTime": "00:05:35.754",
+    "verifier": "Gold",
+    "verification": "https://youtu.be/RmIeuo9JKPI?si=wuIZ8WO6AQ6AAiE0",
+    "verifyTime": "00:15:53.879",
     "percentToQualify": "100",
     "password": "Free copy",
     "rate": "Extreme Demon, Featured",
-    "v_enjoyment": "?",
+    "v_enjoyment": 3,
     "enjoyment": "4.5/10",
     "records": [
-        {
-            "user": "Gold",
-            "link": "https://youtu.be/RmIeuo9JKPI?si=wuIZ8WO6AQ6AAiE0",
-            "percent": 100,
-            "coins": 0,
-            "time": "00:15:53.879",
-            "hz": "240",
-            "enjoyment": 3
-        },
         {
             "user": "TurboFlash",
             "link": "https://youtu.be/DOvEt8NX7yI",

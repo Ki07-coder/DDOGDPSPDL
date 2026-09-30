@@ -21,15 +21,6 @@
             "time": "00:01:47.220",
             "hz": 240,
             "enjoyment": 6
-        },
-        {
-            "user": "finn",
-            "link": "https://youtu.be/4_vgI7WUiuA",
-            "percent": 100,
-            "coins": 1,
-            "time": "00:10:22.191",
-            "hz": 240,
-            "enjoyment": "?"
         }
     ]
 }

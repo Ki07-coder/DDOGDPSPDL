@@ -4,13 +4,13 @@
     "coins": 0,
     "author": "finn",
     "creators": ["finn"],
-    "verifier": "finn",
-    "verification": "https://www.youtube.com/watch?v=Qc6RdHZ1u2w",
-    "verifyTime": "02:11:43.254",
+    "verifier": "Gold",
+    "verification": "https://youtu.be/beLuEpL_E5k?si=hmBRLdeHeqW_UwrU",
+    "verifyTime": "01:00:06.687",
     "percentToQualify": "100",
     "password": "Free copy",
     "rate": "Extreme Demon, Rated",
-    "v_enjoyment": "?",
+    "v_enjoyment": 4,
     "enjoyment": "4.5/10",
     "records": [
         {
@@ -21,15 +21,6 @@
             "time": "00:03:26.375",
             "hz": "240",
             "enjoyment": 5
-        },
-        {
-            "user": "Gold",
-            "link": "https://youtu.be/beLuEpL_E5k?si=hmBRLdeHeqW_UwrU",
-            "percent": 100,
-            "coins": 0,
-            "time": "01:00:06.687",
-            "hz": "240",
-            "enjoyment": 4
         }
     ]
 }
